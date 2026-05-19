@@ -6,9 +6,6 @@
 
 </div>
 
-Étudiante en L3 Informatique à l'Université Lyon 2, je recherche une alternance de 2 ans dans le développement web.  
-J'aime autant coder que créer — du backend PHP à la modélisation 3D sur Blender !
-
 ---
 
 ## 🛠️ Mes technos
