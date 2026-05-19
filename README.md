@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐾 Nekokimi0
+# Nekokimi0
 
 *Étudiante en Licence 3 Informatique · Lyon 2*
 
