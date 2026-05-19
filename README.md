@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠️ Mes technos
+## Mes technos
 
 **Langages**  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -31,7 +31,7 @@
 
 ---
 
-## 📁 Mes projets
+## Mes projets
 
 | Projet | Description | Technos |
 |:-|:-|:-|
@@ -43,7 +43,7 @@
 
 ---
 
-## 🎯 Ce que je recherche
+## Ce que je recherche
 
 Je suis à la recherche d'une **alternance de 2 ans** en développement web à partir de 2025.  
 Mes points forts : backend PHP/MVC, bases de données relationnelles, et un vrai souci du code bien structuré.  
@@ -51,7 +51,7 @@ Ouverte à tout projet qui mêle technique et créativité ! 🐾
 
 ---
 
-## 📬 Me contacter
+## Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/séréna-pot-9a6499334)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:serena.pot@gmail.com)
