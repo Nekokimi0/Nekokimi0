@@ -42,17 +42,3 @@
 | [Jy-fous-tout](https://github.com/Nekokimi0/Jy-fous-tout) | Application mobile anti-gaspillage alimentaire | React Native, JavaScript |
 | [My Virtual Zoo](https://github.com/Nekokimi0/My-virtual-zoo) | Jeu de gestion de zoo en mode textuel avec POO et fichiers CSV | C++ |
 | [Compression NSI](https://github.com/Nekokimi0/NSI-projet-compression) | Algorithme de compression de fichiers texte (Terminale) | Python |
-
----
-
-## Ce que je recherche
-
-Je suis à la recherche d'une **alternance de 2 ans** à partir de **septembre 2026** dans le domaine du **développement web** ou de la **création numérique**.  
-Mes points forts : backend PHP/MVC, bases de données relationnelles, et une vraie sensibilité pour le design et la créativité ! 🐾
-
----
-
-## Me contacter
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/séréna-pot-9a6499334)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:serena.pot@gmail.com)
