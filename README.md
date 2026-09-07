@@ -2,7 +2,7 @@
 
 # Nekokimi0
 
-*Étudiante en Licence 3 Informatique · Lyon 2*
+*Étudiante en Master 1 Informatique · Lyon 2*
 
 </div>
 
@@ -36,6 +36,7 @@
 
 | Projet | Description | Technos |
 |:-|:-|:-|
+| [Inkado](https://github.com/Nekokimi0/eboutique) | E-boutique de mangas avec espace client et administration | PHP, MariaDB, MVC, Chart.js |
 | [Le Ronron Café](https://github.com/Nekokimi0/Projet-php-bar-a-chat) | Site web d'un bar à chats fictif — réservations, gestion admin, upload de photos | PHP, MariaDB, MVC |
 | [La Quête de Nugget](https://github.com/Nekokimi0/8bit-Retro-Video-Game) | Mini RPG 2D en pixel art avec exploration, PNJ et combats | Unity, C#, Piskel |
 | [Character Finder](https://github.com/Nekokimi0/Projet-info-graphique-et-vision) | Détection de personnages par vision par ordinateur | Python, OpenCV, SIFT |
